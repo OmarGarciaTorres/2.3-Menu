@@ -1,5 +1,5 @@
 Tiene 3 botones. Arriba, Abajo y Seleccionar. Al seleccionar el numero deseado aparece el numero mas grande y al volver a seleccionar regresa al menu.
-[VIDEO FUNCIONAMIENTO GOOGLE DRIVE:](https://drive.google.com/file/d/1BEA1RSOE_Q_UQm5ns1SZDp_uq8HC4znL/view?usp=sharing)
+[VIDEO FUNCIONAMIENTO GOOGLE DRIVE](https://drive.google.com/file/d/1BEA1RSOE_Q_UQm5ns1SZDp_uq8HC4znL/view?usp=sharing)
 
 
 ![Imagen 1](https://drive.google.com/uc?id=1BAUb-6A4Ykdbo7LJnpE9-Zic8O1vRgB2)
